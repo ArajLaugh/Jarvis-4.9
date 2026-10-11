@@ -1,5 +1,4 @@
 name: Build JARVIS APK
-
 "on":
 workflow_dispatch:
 push:
